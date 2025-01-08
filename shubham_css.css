@@ -179,8 +179,8 @@ nav{
     opacity: 0.8;
     margin-top: 15%;
 }
-.education-content{
-    font-family: "Poppins";
+.education-content p{
+    font-family: "Poppins","Syncopate", serif;
     width: 400px;
     height: 400px;
     margin-top: 10%;
