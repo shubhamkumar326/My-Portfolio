@@ -116,6 +116,7 @@ nav{
     text-shadow: 0px 1px 5px #000000;
     color: transparent;
     letter-spacing: 8px;
+    z-index: 2;
 }
 }
 /* home section */
@@ -215,13 +216,14 @@ nav{
     line-height: 1.2;
     border-radius: 12px;
 }
-
-
 /* contact section */
 .contact{
     font-family: "Poppinns",sans-serif;
     margin-left: 35%;
     width: 400px;
+    border: 2px solid rgb(160, 87, 24);
+    padding: 12px 24px;
+    border-radius: 12px;
 }
 .contact h3{
     font-family: "Major Mono Display", serif;
@@ -234,7 +236,7 @@ nav{
     opacity: 0.8;
 }
 .small-box{
-    padding-left: 3%;
+    padding-left: 10%;
     padding-top: 6%;
 }
 .form label p{
